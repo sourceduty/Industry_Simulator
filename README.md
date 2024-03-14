@@ -123,6 +123,9 @@ Key Performance Indicators (KPIs)
 
 </details>
 
+#
+
+Alex: **"I don't believe anyone has developed and modelled industries like this before. However, if it has been done, this method would offer a significantly more accurate and innovative way of modeling industries.**
 
 ***
 
