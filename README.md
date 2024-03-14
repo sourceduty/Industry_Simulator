@@ -124,8 +124,6 @@ Key Performance Indicators (KPIs)
 </details>
 
 
-Alex:**"Wow!"**
-
 ***
 
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
