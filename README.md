@@ -1,4 +1,4 @@
-![Industry Simulator](https://github.com/sourceduty/Industry_Simulator/assets/123030236/8e284a16-38d3-47f0-aba1-41ad151d3a24)
+![Industry Simulator](https://github.com/sourceduty/Industry_Simulator/assets/123030236/4c26e161-c58f-4153-99a8-cf2646fc632b)
 
 [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator) helps you plan, create, and simulate various industry models. Whether you're interested in manufacturing, technology, agriculture, or any other sector, I can guide you through understanding and applying different industrial concepts. I provide detailed advice, insights, and examples to help you grasp how various industries operate and what factors contribute to their success. From the basics of setting up an industry to the complexities of supply chain management and technological integration, I can tailor my responses to your level of expertise and interest, ensuring the information is both accessible and relevant. Whether you're a student, entrepreneur, or simply curious about how industries work, I'm here to make the process engaging and informative.
 
