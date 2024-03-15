@@ -132,37 +132,37 @@ Simulate a new digital industry model.
 Simulation Model: SaaS Platform for Project Management
 
 1. Market Research and Planning
-   - Cost: $20,000
+   - Cost: $20,000 USD
    - Key Activities: Competitor analysis, customer surveys, focus groups
 
 2. Legal and Administrative Setup
-   - Business Incorporation: $2,500
-   - Intellectual Property: $10,000
-   - Compliance: $9,000
+   - Business Incorporation: $2,500 USD
+   - Intellectual Property: $10,000 USD
+   - Compliance: $9,000 USD
 
 3. Product Development
-   - Setup: $10,000
+   - Setup: $10,000 USD
    - Team Costs: $350,000 (annual)
-   - Development Phase: $450,000
+   - Development Phase: $450,000 USD
 
 4. User Experience and Accessibility
-   - UX Design: $20,000
-   - Accessibility Compliance: $10,000
+   - UX Design: $20,000 USD
+   - Accessibility Compliance: $10,000 USD
 
 5. Marketing and Sales
-   - Branding and Website: $30,000
-   - Digital Marketing: $6,000/month
-   - Sales Team: $80,000/salesperson (annual)
+   - Branding and Website: $30,000 USD
+   - Digital Marketing: $6,000 USD/month
+   - Sales Team: $80,000 USD/salesperson (annual)
 
 6. Operations and Maintenance
-   - Cloud Scaling: $6,000/month
-   - Customer Support: $50,000/support agent (annual)
-   - Updates and Security: $125,000 (annual)
+   - Cloud Scaling: $6,000 USD/month
+   - Customer Support: $50,000 USD/support agent (annual)
+   - Updates and Security: $125,000 USD (annual)
 
 7. Post-Launch Growth
-   - Product Expansion: $125,000
-   - Strategic Partnerships: $50,000
-   - Market Expansion: $60,000
+   - Product Expansion: $125,000 USD
+   - Strategic Partnerships: $50,000 USD
+   - Market Expansion: $60,000 USD
 
 Simulation Scenario: Year 1 Operations
 
@@ -187,11 +187,11 @@ Q4:
    - Begin post-launch product enhancements based on user feedback.
 
 Year 1 Costs:
-   - Research, Legal, and Admin Setup: $41,500
-   - Product Development and UX: $480,000
-   - Marketing and Sales Pre-Launch: $48,000
-   - Operational and Maintenance Post-Launch (3 months): $123,000
-   - Total Year 1 Costs: $692,500
+   - Research, Legal, and Admin Setup: $41,500 USD
+   - Product Development and UX: $480,000 USD
+   - Marketing and Sales Pre-Launch: $48,000 USD
+   - Operational and Maintenance Post-Launch (3 months): $123,000 USD
+   - Total Year 1 Costs: $692,500 USD
 
 Year 1 Operations Focus:
    - Establish a solid product foundation with a focus on user experience.
