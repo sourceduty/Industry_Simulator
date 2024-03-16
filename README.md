@@ -285,6 +285,37 @@ Plastic Railway Industry Simulation Model
 
 </details>
 
+<details><summary>Gasoline Industry Ending</summary>
+
+ ```
+
+![Gas Pump Tesla Car](https://github.com/sourceduty/Industry_Simulator/assets/123030236/00e19f62-fcaa-4fb5-bdc2-2426554c160e)
+
+Projecting the end of the gasoline industry with the adoption of electric vehicles (EVs) in North America involves significant uncertainties, especially around the pace of EV adoption, technological advancements, and policy changes. However, for the sake of illustration, let's assume a hypothetical timeline and associated financial implications.
+
+2025-2030: Acceleration of EV Adoption
+
+During this period, EV sales continue to grow rapidly, fueled by government incentives, falling battery costs, and an expanding charging infrastructure. Gasoline demand begins to decline, leading to a slight decrease in prices. Assuming a conservative 5% annual reduction in demand, we might see gasoline prices drop by CAD 0.05 to CAD 0.10 per liter annually from the current average, affecting oil companies' revenues. In terms of currency, let's use a CAD to USD exchange rate of 0.75 for calculations.
+
+2030-2040: Significant Market Shifts
+
+By this point, EVs could dominate new car sales, significantly reducing gasoline demand. Prices at the pump could be 30-50% lower than in 2025, leading to shrinking profit margins for oil companies. Assuming an annual revenue drop of 5-10% for major oil producers, this could translate to losses in the billions. For example, a company generating CAD 50 billion in revenue from gasoline in 2030 might see this figure reduced to CAD 25-35 billion by 2040.
+
+2040-2050: Niche Markets and Industry Transformation
+
+Gasoline becomes a niche product, used in sectors slow to electrify. Prices might stabilize or even increase slightly due to reduced production scale, but the total market would be a fraction of its former size. Major oil companies might see their gasoline-related revenues shrink to less than CAD 10 billion annually. The costs of maintaining operational refineries and supply chains for reduced demand could significantly impact profitability.
+
+Throughout these phases, the economic impact would vary. Job losses in the oil and gasoline sector could be significant, necessitating billions in government spending for retraining and unemployment benefits. For instance, a country-wide program might cost CAD 5-10 billion over a decade. Conversely, investments in EV infrastructure and renewable energy could offset some economic downsides, with major projects potentially costing tens of billions (e.g., CAD 20-50 billion for a comprehensive national charging network).
+
+Exchange rate fluctuations could amplify or mitigate some of these effects. For example, if the CAD strengthens against the USD, the relative economic impact in Canada could be lessened. Conversely, a weaker CAD would make the transition more costly in relative terms.
+
+In summary, the end of the gasoline industry due to the rise of EVs in North America would lead to significant economic shifts. With billions in lost revenues for the oil sector, substantial governmental expenditures for economic transition, and massive investments in new technologies and infrastructures, the financial landscape of the energy sector would be dramatically transformed over the next few decades.
+
+ ```
+
+</details>
+
+
 Industry and simulation models are both created using Industry Simulator to enhance understanding, improve decision-making, and optimize processes within various sectors. In the context of industry models, these frameworks help stakeholders visualize and comprehend the complex interactions within specific industries, including supply chains, market dynamics, and competitive landscapes. They serve as tools for strategic planning, enabling businesses to identify opportunities, assess risks, and forecast future trends. Industry and simulation models are powerful tools that complement each other. While industry models offer a macro-level view of market and business dynamics, simulation models allow for micro-level analysis of specific processes and scenarios. Their combined use can significantly improve an organization's ability to innovate, adapt, and thrive in an ever-changing business landscape.
 
 #
