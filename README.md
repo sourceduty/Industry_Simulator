@@ -322,4 +322,8 @@ Alex: *"I don't believe anyone has developed a tool to model industries like thi
 
 ***
 
+![Gas Pump Tesla Car](https://github.com/sourceduty/Industry_Simulator/assets/123030236/09677a36-0bd1-4ff9-b457-3204027254e4)
+
+***
+
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
