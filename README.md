@@ -289,8 +289,6 @@ Plastic Railway Industry Simulation Model
 
  ```
 
-![Gas Pump Tesla Car](https://github.com/sourceduty/Industry_Simulator/assets/123030236/00e19f62-fcaa-4fb5-bdc2-2426554c160e)
-
 Projecting the end of the gasoline industry with the adoption of electric vehicles (EVs) in North America involves significant uncertainties, especially around the pace of EV adoption, technological advancements, and policy changes. However, for the sake of illustration, let's assume a hypothetical timeline and associated financial implications.
 
 2025-2030: Acceleration of EV Adoption
