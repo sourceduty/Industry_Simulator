@@ -323,6 +323,7 @@ Alex: *"I don't believe anyone has developed a tool to model industries like thi
 ***
 
 ![Gas Pump Tesla Car](https://github.com/sourceduty/Industry_Simulator/assets/123030236/09677a36-0bd1-4ff9-b457-3204027254e4)
+![Tesla Gearbox](https://github.com/sourceduty/Industry_Simulator/assets/123030236/4988fa62-b1ff-48a7-a046-f386db6d8499)
 
 ***
 
