@@ -333,6 +333,10 @@ In summary, the end of the gasoline industry due to the rise of EVs in North Ame
 
 Alex: *"I don't believe anyone has developed a tool to model industries like this before. However, if it has been done, this method would offer a significantly more accurate and innovative way of modeling industries."*
 
-***
+#
+### Related Links
 
+[Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
