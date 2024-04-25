@@ -337,6 +337,8 @@ Alex: *"I don't believe anyone has developed a tool to model industries like thi
 ### Related Links
 
 [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+<br>
+[Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
