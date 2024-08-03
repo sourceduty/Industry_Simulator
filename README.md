@@ -406,6 +406,8 @@ Alex: *"I don't believe anyone has developed a tool to model industries like thi
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
 <br>
 [Industry Calendar](https://github.com/sourceduty/Industry_Calendar)
+<br>
+[Industry Influencer](https://github.com/sourceduty/Industry_Influencer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
