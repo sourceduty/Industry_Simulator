@@ -404,6 +404,8 @@ Alex: *"I don't believe anyone has developed a tool to model industries like thi
 [Industry Antimodel](https://github.com/sourceduty/Industry_Antimodel)
 <br>
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Industry Calendar](https://github.com/sourceduty/Industry_Calendar)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
