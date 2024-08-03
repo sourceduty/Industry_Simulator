@@ -78,6 +78,7 @@ Managing Logistics         Contracts & Agreements     Pricing Strategies    Reve
 ### Examples
 
 <details><summary>Example Industry Model</summary>
+<br>
 
  ```
 
@@ -124,10 +125,11 @@ Simulation Steps:
 
  ```
 
+<br>
 </details>
-
 <details><summary>Recreational Space Industry</summary>
-
+<br>
+  
  ```
 
 Creating a Recreational Space Industry Model
@@ -193,12 +195,12 @@ Key Performance Indicators (KPIs)
 - Operational Efficiency: Successful missions ratio.
 - Safety Record: Incidents per number of guests.
 
-
  ```
 
+<br>
 </details>
-
 <details><summary>Digital Industry Model Example</summary>
+<br>
 
  ```
 
@@ -277,9 +279,10 @@ Note: This scenario assumes a linear progression and simplified cost structure f
 
  ```
 
+<br>
 </details>
-
 <details><summary>Plastic Railway Industry</summary>
+<br>
 
  ```
 
@@ -358,9 +361,10 @@ Plastic Railway Industry Simulation Model
 
  ```
 
+<br>
 </details>
-
 <details><summary>Gasoline Industry Ending</summary>
+<br>
 
  ```
 
@@ -386,6 +390,7 @@ In summary, the end of the gasoline industry due to the rise of EVs in North Ame
 
  ```
 
+<br>
 </details>
 
 #
